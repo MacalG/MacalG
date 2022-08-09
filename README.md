@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MacalG
-- 👀 I’m interested in new projects to work.
+- :D  I’m working at Phyrexi!
 - 🌱 I’m currently learning development in Unreal Engine and VR.
 - 📫 How to reach me: Send me a message ou mail me on macalggg@hotmail.com
 
